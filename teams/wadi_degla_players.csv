@@ -1,28 +1,36 @@
 ﻿player_id,shirt_number,player_name,team,position,age,nationality,in_squad,appearances,goals,minutes_played
-1433085,-,Juan Barriga,Wadi Degla FC,Goalkeeper,18,Mexico,2,2,0,180
-1011031,-,Didier Díaz,Wadi Degla FC,Goalkeeper,19,Mexico,1,0,0,0
-1475183,232,Jonathan Rebollar,Wadi Degla FC,Goalkeeper,19,Mexico,0,0,0,0
-1287075,243,Leonardo González,Wadi Degla FC,Goalkeeper,18,Mexico,1,0,0,0
-1540845,-,Santiago Valencia,Wadi Degla FC,Defender,18,Mexico,1,1,0,90
-1436392,-,Gael Beltrán,Wadi Degla FC,Centre-Back,18,Mexico,2,0,0,0
-1501338,-,Julián Alcócer,Wadi Degla FC,Centre-Back,18,Mexico,1,1,0,90
-1241162,-,José Sánchez,Wadi Degla FC,Defender,19,Mexico,1,1,0,90
-1428394,-,Óscar Martínez,Wadi Degla FC,Centre-Back,19,Mexico,1,0,0,0
-1429337,234,Alejandro Rodríguez,Wadi Degla FC,Defender,19,Mexico,1,1,0,90
-1501337,235,Luis Gutiérrez,Wadi Degla FC,Centre-Back,19,Mexico,2,0,0,0
-1436391,243,Eleazar Ramírez,Wadi Degla FC,Defender,18,Mexico,0,0,0,0
-1501339,248,Jorge Morán,Wadi Degla FC,Defender,18,Mexico,1,0,0,0
-1572655,250,Maximiliano Coronado,Wadi Degla FC,Defender,17,Mexico,1,1,0,90
-1572656,-,Emilio Hernández,Wadi Degla FC,Midfield,18,Mexico,2,2,0,180
-1364026,191,Emilio Albarran,Wadi Degla FC,Midfield,19,Mexico,0,0,0,0
-1501341,237,Nicolás Rodríguez,Wadi Degla FC,Midfield,17,Mexico,2,0,0,0
-1480011,238,Daniel de la Rosa,Wadi Degla FC,Midfield,18,Mexico,2,2,0,180
-1501342,239,Miguel Montellano,Wadi Degla FC,Midfield,19,Mexico,1,1,0,90
-1429340,241,Emiliano Guerrero,Wadi Degla FC,Midfield,19,Mexico,1,0,0,0
-1501343,249,Sergio Sánchez,Wadi Degla FC,Midfield,19,Mexico,1,0,0,0
-1501344,293,Nicolás Sáenz,Wadi Degla FC,Defensive Midfield,18,Mexico,2,1,0,90
-1536291,-,Ian Rico,Wadi Degla FC,Attack,18,Mexico,2,0,0,0
-1467126,242,Armando Braña,Wadi Degla FC,Attack,18,Mexico,2,2,0,180
-1429342,245,Leonardo Cruz,Wadi Degla FC,Attack,18,Mexico,1,1,0,90
-1572657,251,Alexis Espinosa,Wadi Degla FC,Attack,18,Mexico,1,1,0,90
-1572658,253,Pablo Ledesma,Wadi Degla FC,Attack,18,Mexico,2,2,0,180
+327565,1,Amr Hossam,Wadi Degla FC,Goalkeeper,35,Egypt,8,8,0,720
+1435573,13,Ziad Seyam,Wadi Degla FC,Goalkeeper,23,Egypt,5,0,0,0
+830075,99,Abdelrahman Qattawy,Wadi Degla FC,Goalkeeper,26,Egypt,3,0,0,0
+1389851,18,Greisha,Wadi Degla FC,Goalkeeper,20,Egypt,0,0,0,0
+879920,2,Shady Maher,Wadi Degla FC,Right-Back,29,Egypt,4,4,0,360
+819602,6,Kamal Aboul-Fetouh,Wadi Degla FC,Centre-Back,29,Egypt,3,2,0,135
+825116,24,Riga,Wadi Degla FC,Centre-Back,27,Egypt,6,6,0,362
+920521,3,Omar Adly,Wadi Degla FC,Centre-Back,29,Egypt,7,4,1,360
+604010,23,Ahmed Ayman,Wadi Degla FC,Right-Back,30,Egypt,5,5,0,359
+842574,5,Ahmed Dahroug,Wadi Degla FC,Left-Back,30,Egypt,4,3,0,62
+1435572,19,Mahmoud Adel,Wadi Degla FC,Right-Back,22,Egypt,7,7,0,458
+992875,21,Ahmed Reda,Wadi Degla FC,Left-Back,23,Egypt,7,7,0,560
+207106,28,Seif Teka,Wadi Degla FC,Centre-Back,35,Tunisia,6,6,2,467
+1237440,40,Ahmed Abdin,Wadi Degla FC,Centre-Back,20,Egypt,3,3,1,158
+1371587,15,Yehia Mostafa,Wadi Degla FC,Left-Back,21,Egypt,2,0,0,0
+1435574,17,Hamza Hassan,Wadi Degla FC,Central Midfield,21,Egypt,8,8,1,355
+404694,34,Mees Kaandorp,Wadi Degla FC,Central Midfield,28,Netherlands,4,0,0,0
+1040069,8,Ahmed Scholes,Wadi Degla FC,Defensive Midfield,28,Egypt,8,8,0,594
+373707,14,Mohamed Abdelaati,Wadi Degla FC,Central Midfield,31,Egypt,6,6,0,440
+548240,4,Kanu,Wadi Degla FC,Central Midfield,33,Egypt,3,3,0,46
+1321117,20,Juhayna,Wadi Degla FC,Central Midfield,26,Egypt,6,6,0,132
+1419552,25,Ibrahim El Bahnasi,Wadi Degla FC,Central Midfield,24,Egypt,5,5,1,364
+339398,30,Mohamed Fathi,Wadi Degla FC,Defensive Midfield,32,Egypt,4,3,0,33
+604009,33,Halimo,Wadi Degla FC,Defensive Midfield,31,Egypt,0,0,0,0
+312257,44,Ahmed El Shimi,Wadi Degla FC,Central Midfield,31,Egypt,4,2,0,29
+1490715,42,Mohamed Barakat,Wadi Degla FC,Central Midfield,18,Egypt,0,0,0,0
+1505777,70,Adam El Mallah,Wadi Degla FC,Central Midfield,19,Egypt,0,0,0,0
+212630,9,Franck Boli,Wadi Degla FC,Centre-Forward,32,Cote d'Ivoire,7,6,0,229
+729393,10,Mahmoud Diasty,Wadi Degla FC,Left Winger,26,Egypt,8,8,1,692
+1312292,22,Zizo,Wadi Degla FC,Left Winger,24,Egypt,8,7,1,413
+1327133,32,Ahmed Farouk,Wadi Degla FC,Centre-Forward,25,Egypt,2,1,0,85
+875015,7,Youssef Oya,Wadi Degla FC,Right Winger,26,Egypt,4,4,0,198
+1105671,11,Mohamed Abdelrahim,Wadi Degla FC,Right Winger,27,Egypt,6,3,0,31
+672759,27,Ahmed Refaat,Wadi Degla FC,Left Winger,26,Egypt,7,3,0,154
+1568166,29,Mohamed Soliman,Wadi Degla FC,Right Winger,22,Egypt,0,0,0,0

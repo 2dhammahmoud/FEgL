@@ -1,0 +1,35 @@
+﻿player_id,shirt_number,player_name,team,position,age,nationality,in_squad,appearances,goals,minutes_played
+262423,16,Mahmoud Hamdy,El Masry SC,Goalkeeper,33,Egypt,6,5,0,450
+1104228,26,Mohamed Seha,El Masry SC,Goalkeeper,25,Egypt,6,3,0,270
+340296,1,Essam Tharwat,El Masry SC,Goalkeeper,37,Egypt,4,0,0,0
+676171,31,Mohamed Shehata,El Masry SC,Goalkeeper,27,Egypt,0,0,0,0
+1237436,39,Ahmed Wahp,El Masry SC,Goalkeeper,21,Egypt,0,0,0,0
+381583,2,Baher El Mohamady,El Masry SC,Centre-Back,29,Egypt,8,8,0,720
+789002,3,Mohamed Shokry,El Masry SC,Left-Back,27,Egypt,8,5,0,380
+518942,7,Karim El Eraki,El Masry SC,Right-Back,28,Egypt,8,8,0,700
+933429,33,Mostafa El Aash,El Masry SC,Centre-Back,26,Egypt,8,5,0,313
+372542,5,Khaled Sobhi,El Masry SC,Centre-Back,31,Egypt,6,4,0,360
+459864,13,Amr El Saadawy,El Masry SC,Left-Back,29,Egypt,6,6,0,342
+314236,29,Mohamed Hashem,El Masry SC,Centre-Back,31,Egypt,4,2,0,77
+1474313,36,Abdo Nader,El Masry SC,Right-Back,21,Egypt,2,0,0,0
+568203,30,Abderrahim Deghmoum,El Masry SC,Attacking Midfield,27,Algeria,7,7,0,441
+471117,14,Mahmoud Hamada,El Masry SC,Central Midfield,32,Egypt,7,7,1,443
+611199,6,Mohamed Makhlouf,El Masry SC,Defensive Midfield,28,Egypt,7,7,0,583
+1111521,20,Kheir Eddine Toual,El Masry SC,Attacking Midfield,25,Algeria,6,4,0,167
+1300181,4,Yassin El Mallah,El Masry SC,Defensive Midfield,22,Egypt,6,4,0,185
+435929,8,Hassan Ali,El Masry SC,Central Midfield,28,Egypt,3,3,0,180
+896713,18,Ameed Sawafta,El Masry SC,Central Midfield,26,Palestine,2,0,0,0
+315474,24,Moustafa Zeidan,El Masry SC,Attacking Midfield,28,Palestine,0,0,0,0
+743548,32,Hussein Faisal,El Masry SC,Central Midfield,27,Egypt,7,5,1,247
+573380,17,Youssef El Gohary,El Masry SC,Central Midfield,28,Egypt,4,1,0,45
+981766,12,Mostafa Aboul-Kheir,El Masry SC,Defensive Midfield,22,Egypt,2,0,0,0
+1467992,35,Belia,El Masry SC,Central Midfield,21,Egypt,0,0,0,0
+470009,9,Salah Mohsen,El Masry SC,Centre-Forward,28,Egypt,8,8,5,638
+702910,21,Ali Sulieman,El Masry SC,Centre-Forward,26,Eritrea,6,5,0,213
+1273576,27,Abdellah Ziani,El Masry SC,Left Winger,23,Morocco,8,7,0,386
+854891,25,Mounder Temine,El Masry SC,Centre-Forward,25,Algeria,2,2,0,66
+320078,10,Karim Bambo,El Masry SC,Centre-Forward,33,Egypt,4,4,0,52
+444181,11,Mohamed El Shami,El Masry SC,Centre-Forward,30,Egypt,8,8,1,350
+1036003,15,Ahmed El Armouty,El Masry SC,Right Winger,27,Egypt,6,5,0,314
+1264676,37,Ahmed Sharaf,El Masry SC,Right Winger,21,Egypt,1,1,0,1
+1112399,34,Hossam Hassan,El Masry SC,Left Winger,20,Egypt,0,0,0,0

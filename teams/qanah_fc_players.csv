@@ -1,0 +1,32 @@
+﻿player_id,shirt_number,player_name,team,position,age,nationality,in_squad,appearances,goals,minutes_played
+607124,16,Mohamed Shaaban,Qanah FC,Goalkeeper,32,Egypt,9,9,0,810
+489955,1,Mostafa Mahmoud,Qanah FC,Goalkeeper,29,Egypt,8,0,0,0
+1521513,77,Ahmed Castelo,Qanah FC,Goalkeeper,24,Egypt,1,0,0,0
+1149510,5,Ibrahim Samy,Qanah FC,Centre-Back,24,Egypt,9,9,1,754
+1377526,2,Momen Mahdy,Qanah FC,Centre-Back,27,Egypt,6,6,0,540
+403561,4,Mahmoud Rizk,Qanah FC,Centre-Back,33,Egypt,4,1,0,9
+1237438,15,Mohab Samy,Qanah FC,Left-Back,21,Egypt,8,8,0,577
+822728,30,Osama El Nagar,Qanah FC,Right-Back,26,Egypt,9,9,0,801
+1423137,98,Hassan El Shazly,Qanah FC,Right-Back,31,Egypt,1,0,0,0
+1492518,21,Islam Halima,Qanah FC,Left-Back,27,Egypt,2,2,0,175
+204170,3,Ali Elfil,Qanah FC,Centre-Back,35,Egypt,2,1,0,11
+968736,13,Mohamed Hany Treka,Qanah FC,Left-Back,27,Egypt,7,3,0,58
+462312,19,Mohamed El Shebini,Qanah FC,Centre-Back,35,Egypt,6,4,1,360
+351395,66,Mohamed Helal,Qanah FC,Attacking Midfield,31,Egypt,2,2,0,89
+1148701,20,Hafiz Ibrahim,Qanah FC,Central Midfield,24,Ghana,8,8,0,700
+977029,6,Momen Rady,Qanah FC,Defensive Midfield,31,Egypt,7,6,0,302
+1307900,8,Mahmoud Hersha,Qanah FC,Defensive Midfield,31,Egypt,8,8,0,467
+933432,25,Mostafa Hamada,Qanah FC,Attacking Midfield,26,Egypt,6,4,0,228
+539002,33,Mohamed Sadek,Qanah FC,Attacking Midfield,29,Egypt,9,7,0,484
+1151081,27,Ahmed Ali,Qanah FC,Central Midfield,26,Egypt,6,3,0,54
+1065506,24,Mohamed Diab,Qanah FC,Defensive Midfield,31,Egypt,7,4,0,61
+838542,14,Mohamed El Kout,Qanah FC,Defensive Midfield,27,Egypt,3,1,0,14
+448337,-,Ramy Najjarine,Qanah FC,Right Winger,26,Lebanon,2,0,0,0
+952270,18,Mawuli Wayo,Qanah FC,Left Winger,23,Ghana,9,9,3,534
+1492516,10,Mody Shalata,Qanah FC,Left Winger,25,Egypt,8,8,1,588
+1269143,9,Hazem Abosena,Qanah FC,Centre-Forward,25,Egypt,9,9,3,760
+613076,7,Hossam Greisha,Qanah FC,Left Winger,29,Egypt,6,6,0,200
+160551,11,Mohamed Hamdi,Qanah FC,Centre-Forward,34,Egypt,8,6,2,130
+742147,17,Rudolf Mensah,Qanah FC,Centre-Forward,25,Ghana,0,0,0,0
+479679,22,Mohamed Antar,Qanah FC,Right Winger,33,Egypt,8,6,0,135
+1521516,40,Ibrahim El Sayed,Qanah FC,Left Winger,21,Egypt,2,1,0,45

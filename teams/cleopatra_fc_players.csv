@@ -1,21 +1,33 @@
 ﻿player_id,shirt_number,player_name,team,position,age,nationality,in_squad,appearances,goals,minutes_played
-827941,-,Patrik Zilahy,Cleopatra FC,Goalkeeper,24,Hungary,0,0,0,0
-1187832,-,Márk Szegő,Cleopatra FC,Goalkeeper,28,Hungary,1,0,0,0
-500189,-,Róbert Tucsa,Cleopatra FC,Centre-Back,28,Hungary,1,1,0,45
-1062589,-,Levente Budaházi,Cleopatra FC,Left-Back,25,Hungary,1,0,0,0
-1187833,-,Patrik Lénárt,Cleopatra FC,Centre-Back,24,Hungary,0,0,0,0
-1187838,-,Sándor Horváth,Cleopatra FC,Left-Back,25,Hungary,1,1,0,90
-1187848,-,László Lőrincz,Cleopatra FC,Right-Back,21,Hungary,0,0,0,0
-1187849,-,István Berta,Cleopatra FC,Defender,38,Hungary,0,0,0,0
-160994,-,Balázs Demkó,Cleopatra FC,Attacking Midfield,34,Hungary,0,0,0,0
-432383,-,Balázs Szabó,Cleopatra FC,Attacking Midfield,28,Hungary,1,1,0,45
-1187834,-,Patrik Erdelyi,Cleopatra FC,Midfield,26,Hungary,0,0,0,0
-1187845,-,Vince Juhász,Cleopatra FC,Central Midfield,24,Hungary,0,0,0,0
-1187847,-,Botond Porkoláb,Cleopatra FC,Attacking Midfield,21,Hungary,0,0,0,0
-1187853,-,Adrián Gondos,Cleopatra FC,Midfield,25,Hungary,0,0,0,0
-790190,-,László Kalocsai,Cleopatra FC,Centre-Forward,25,Hungary,0,0,0,0
-717740,-,Péter Sikur,Cleopatra FC,Attack,37,Hungary,1,0,0,0
-712418,-,Szebasztián Szilágyi,Cleopatra FC,Centre-Forward,25,Hungary,0,0,0,0
-1187846,-,József Sipos,Cleopatra FC,Left Winger,24,Hungary,0,0,0,0
-1187851,-,Balázs Bíró,Cleopatra FC,Attack,20,Hungary,1,0,0,0
-1187852,-,Brendon Glonci,Cleopatra FC,Attack,20,Hungary,0,0,0,0
+1307898,23,Mohamed Alaa,Cleopatra FC,Goalkeeper,27,Egypt,8,4,0,360
+127701,18,Mohamed Bassam,Cleopatra FC,Goalkeeper,35,Egypt,8,4,0,360
+948373,13,Mohamed Tarek,Cleopatra FC,Goalkeeper,27,Egypt,0,0,0,0
+403405,4,Beckham,Cleopatra FC,Centre-Back,29,Egypt,6,6,0,493
+1028972,24,Justice Arthur,Cleopatra FC,Centre-Back,28,Ghana,7,7,0,581
+538349,32,Fawzi El Henawy,Cleopatra FC,Left-Back,28,Egypt,8,5,0,149
+405865,2,Ahmed Hany,Cleopatra FC,Right-Back,29,Egypt,7,7,0,505
+265707,5,Ragab Nabil,Cleopatra FC,Centre-Back,33,Egypt,6,5,0,188
+830077,-,Moaz Ahmed,Cleopatra FC,Centre-Back,23,Egypt,3,1,0,90
+184820,27,Hussein El Sayed,Cleopatra FC,Left-Back,35,Egypt,7,7,1,630
+712713,8,Abdallah Magdy,Cleopatra FC,Right-Back,29,Egypt,6,3,1,95
+821863,66,Mohamed El Maghraby,Cleopatra FC,Centre-Back,25,Egypt,7,3,0,260
+1497660,-,Fathi Mohamed,Cleopatra FC,Right-Back,21,Egypt,1,1,0,35
+437711,10,Ahmed Belhadji,Cleopatra FC,Central Midfield,28,Morocco,8,7,2,520
+500269,77,Bobo,Cleopatra FC,Central Midfield,25,Egypt,8,8,3,529
+1062368,28,Amr Kalawa,Cleopatra FC,Defensive Midfield,28,Egypt,8,8,1,593
+367734,-,Karim Nedved,Cleopatra FC,Defensive Midfield,29,Egypt,1,0,0,0
+874996,14,Hema Mohamed,Cleopatra FC,Defensive Midfield,26,Egypt,2,2,0,38
+105590,17,Amr El Solia,Cleopatra FC,Central Midfield,36,Egypt,6,6,1,288
+1389854,-,Ezzat Mansour,Cleopatra FC,Midfield,20,Egypt,0,0,0,0
+949741,11,Sodiq Awujoola,Cleopatra FC,Left Winger,25,Nigeria,5,5,1,195
+793476,9,Nejc Gradisar,Cleopatra FC,Centre-Forward,24,Slovenia,8,8,1,660
+537198,7,Islam Issa,Cleopatra FC,Right Winger,30,Egypt,0,0,0,0
+430824,21,Peter Gwargis,Cleopatra FC,Right Winger,26,Iraq,4,4,1,266
+1025249,29,Marwan Otaka,Cleopatra FC,Centre-Forward,24,Egypt,8,8,1,493
+1174429,30,Mohamed Emad,Cleopatra FC,Right Winger,25,Egypt,2,1,0,10
+490268,25,Mohamed Shika,Cleopatra FC,Centre-Forward,29,Egypt,6,4,0,44
+1494105,15,Samir El Eraki,Cleopatra FC,Right Winger,25,Egypt,6,6,1,295
+863677,19,Ayman Mukka,Cleopatra FC,Left Winger,29,Egypt,4,4,0,141
+887985,22,Khaled Al-Nabris,Cleopatra FC,Centre-Forward,23,Palestine,8,4,1,98
+1489702,-,Eissa Ali Maher,Cleopatra FC,Right Winger,21,Egypt,0,0,0,0
+1495609,-,Ashour Shika,Cleopatra FC,Right Winger,23,Egypt,2,0,0,0

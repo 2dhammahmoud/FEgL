@@ -1,4 +1,39 @@
 ﻿player_id,shirt_number,player_name,team,position,age,nationality,in_squad,appearances,goals,minutes_played
-496231,-,Lucas Kauf,Zed FC,Goalkeeper,29,Germany,0,0,0,0
-1054065,-,Moritz Steiner,Zed FC,Midfield,22,Germany,0,0,0,0
-1071388,-,Nicolas Bechtold,Zed FC,Attacking Midfield,24,Germany,0,0,0,0
+114276,1,Ali Lotfi,Zed FC,Goalkeeper,37,Egypt,12,11,0,990
+1159513,16,Mohamed Mazzika,Zed FC,Goalkeeper,32,Egypt,9,1,0,90
+1237434,36,Abdelmonem Tamer,Zed FC,Goalkeeper,20,Egypt,0,0,0,0
+873211,31,Ahmed Nader El Sayed,Zed FC,Goalkeeper,23,Egypt,0,0,0,0
+820290,5,Ahmed Tarek,Zed FC,Centre-Back,25,Egypt,1,1,0,90
+1036406,24,Abdo Gouda,Zed FC,Centre-Back,23,Egypt,3,2,0,49
+864537,26,Mohamed Rabia,Zed FC,Centre-Back,30,Egypt,9,9,0,721
+844742,4,Ahmed Castelo,Zed FC,Centre-Back,27,Egypt,0,0,0,0
+1087789,23,Tarek Alaa,Zed FC,Right-Back,24,Egypt,10,10,0,753
+1140070,73,Wajdi Nabhan,Zed FC,Left-Back,25,Palestine,7,6,1,274
+1439111,2,Mohamed Hussein,Zed FC,Centre-Back,22,Egypt,9,9,1,613
+554995,3,Abdallah Bakri,Zed FC,Centre-Back,32,Egypt,11,10,0,810
+789043,8,Ahmed Sayed,Zed FC,Right-Back,24,Egypt,0,0,0,0
+862602,15,Sameh Ibrahim,Zed FC,Right-Back,28,Egypt,12,7,0,411
+789007,21,Mohamed Ashraf,Zed FC,Left-Back,25,Egypt,0,0,0,0
+1550588,34,Moussa Mohamed,Zed FC,Centre-Back,22,Egypt,10,9,1,721
+1231662,13,Amara Keita,Zed FC,Left-Back,21,Sierra Leone,0,0,0,0
+1232890,32,Abdallah Bostangy,Zed FC,Centre-Back,21,Egypt,1,0,0,0
+1413132,38,Ahmed Abdelaziz,Zed FC,Centre-Back,21,Egypt,0,0,0,0
+1347635,40,Marwan Hegy,Zed FC,Right-Back,21,Egypt,4,2,0,120
+1164688,37,Maata Magassa,Zed FC,Central Midfield,23,Mauritania,3,3,0,113
+710318,18,Ahmed El-Saghiri,Zed FC,Central Midfield,28,Egypt,6,6,1,447
+1148102,74,Mahmoud Ouka,Zed FC,Central Midfield,23,Egypt,11,11,0,796
+1229767,19,Mohamed Ezz,Zed FC,Central Midfield,23,Egypt,11,7,0,429
+635045,20,Hamdy Alaa,Zed FC,Defensive Midfield,26,Egypt,1,1,0,90
+141224,33,Mohamed Ibrahim,Zed FC,Attacking Midfield,34,Egypt,11,10,0,608
+981050,12,Maged Hany,Zed FC,Central Midfield,23,Egypt,0,0,0,0
+842903,22,Mahmoud Bolbol,Zed FC,Defensive Midfield,28,Egypt,11,4,1,282
+845605,10,Mostafa Saad,Zed FC,Right Winger,25,Egypt,12,12,0,859
+975319,7,Rafaat Khalil,Zed FC,Centre-Forward,22,Egypt,8,8,2,327
+741199,9,Ahmed Atef,Zed FC,Centre-Forward,28,Egypt,9,9,5,491
+863537,11,Abdelrahman El Banouby,Zed FC,Left Winger,26,Egypt,11,10,1,575
+851795,29,Rasheed Ahmed,Zed FC,Centre-Forward,26,Nigeria,0,0,0,0
+728563,14,Ahmed Adel,Zed FC,Left Winger,29,Egypt,12,12,2,497
+807690,72,Marwane Hajij,Zed FC,Left Winger,25,France,11,9,1,471
+1168851,35,Omar Khedr,Zed FC,Left Winger,20,Egypt,2,2,1,43
+1163581,17,Mamadu Bah,Zed FC,Centre-Forward,25,Liberia,0,0,0,0
+951501,30,Walid Farag,Zed FC,Right Winger,25,Egypt,5,4,0,123

@@ -1,24 +1,33 @@
 ﻿player_id,shirt_number,player_name,team,position,age,nationality,in_squad,appearances,goals,minutes_played
-712533,1,Kai Kugel,Tala'ea El Gaish,Goalkeeper,29,Germany,0,0,0,0
-627596,21,Simon Mendel,Tala'ea El Gaish,Goalkeeper,29,Germany,0,0,0,0
-1339524,-,Yannick Michels,Tala'ea El Gaish,Defender,29,Germany,0,0,0,0
-1339534,-,Leon Kittel,Tala'ea El Gaish,Defender,24,Germany,0,0,0,0
-1339531,2,Niklas Görgen,Tala'ea El Gaish,Defender,31,Germany,0,0,0,0
-1339532,4,Sebastian Klasen,Tala'ea El Gaish,Defender,33,Germany,0,0,0,0
-1339533,5,Nico Ruf,Tala'ea El Gaish,Defender,22,Germany,0,0,0,0
-1481097,7,Theo Brücker,Tala'ea El Gaish,Defender,19,Germany,0,0,0,0
-613902,13,Lukas Nickels,Tala'ea El Gaish,Defender,29,Germany,0,0,0,0
-1339523,15,Tom Semark,Tala'ea El Gaish,Defender,28,Germany,0,0,0,0
-1339537,16,Jannik Lauer,Tala'ea El Gaish,Defender,29,Germany,0,0,0,0
-1072619,18,Fabian Hübschen,Tala'ea El Gaish,Defender,29,Germany,0,0,0,0
-442984,20,Christopher Simon,Tala'ea El Gaish,Defender,29,Germany,0,0,0,0
-914745,-,Marvin Nackas,Tala'ea El Gaish,Midfield,23,Germany,0,0,0,0
-1339536,-,Maximilian Jung,Tala'ea El Gaish,Midfield,27,Germany,0,0,0,0
-1339535,3,Ruben Barth,Tala'ea El Gaish,Midfield,20,Germany,0,0,0,0
-1339520,6,Lennart Reinhold,Tala'ea El Gaish,Midfield,23,Germany,0,0,0,0
-1339522,10,Felix Simon,Tala'ea El Gaish,Midfield,21,Germany,0,0,0,0
-949222,11,Leon Schommer,Tala'ea El Gaish,Attacking Midfield,25,Germany,0,0,0,0
-613903,22,Mark Münker,Tala'ea El Gaish,Midfield,27,Germany,0,0,0,0
-1143792,9,Paul Kirsch,Tala'ea El Gaish,Attack,23,Germany,0,0,0,0
-1339519,17,Tim Treitz,Tala'ea El Gaish,Attack,21,Germany,0,0,0,0
-1481096,19,Maximilian Schommer,Tala'ea El Gaish,Attack,22,Germany,0,0,0,0
+474082,1,Omar Radwan,Tala'ea El Gaish,Goalkeeper,29,Egypt,5,4,0,339
+70196,18,Emad El-Sayed,Tala'ea El Gaish,Goalkeeper,40,Egypt,8,5,0,375
+444637,77,Mohamed Magdy,Tala'ea El Gaish,Goalkeeper,31,Egypt,3,0,0,0
+845085,4,Mohamed Camacho,Tala'ea El Gaish,Centre-Back,33,Egypt,8,8,0,720
+538952,27,Ahmed Alaa,Tala'ea El Gaish,Centre-Back,32,Egypt,2,2,1,123
+444651,15,Mahmoud Shabana,Tala'ea El Gaish,Centre-Back,31,Egypt,3,0,0,0
+563742,8,Ahmed Zola,Tala'ea El Gaish,Right-Back,33,Egypt,8,8,0,598
+731767,19,Hamed El Gabry,Tala'ea El Gaish,Left-Back,27,Egypt,6,6,0,236
+1036408,2,Moamen Mahmoud,Tala'ea El Gaish,Centre-Back,23,Egypt,3,0,0,0
+158997,3,Amro Tarek,Tala'ea El Gaish,Left-Back,34,Egypt,5,4,0,281
+1192210,24,Zaghloul El Zoughbi,Tala'ea El Gaish,Right-Back,24,Egypt,8,5,0,318
+211490,6,Khaled Sotohi,Tala'ea El Gaish,Centre-Back,37,Egypt,8,7,0,503
+1237442,34,Hossam Awad,Tala'ea El Gaish,Centre-Back,21,Egypt,0,0,0,0
+564524,5,Houssem Eddine Souissi,Tala'ea El Gaish,Central Midfield,29,Tunisia,1,1,0,3
+1512633,32,Yehia Mostafa,Tala'ea El Gaish,Defensive Midfield,23,Egypt,7,7,0,509
+305240,12,Islam Mohareb,Tala'ea El Gaish,Attacking Midfield,34,Egypt,8,8,2,649
+1401362,14,Ahmed Wahid,Tala'ea El Gaish,Defensive Midfield,21,Egypt,4,3,0,192
+624908,22,Mostafa El Khawaga,Tala'ea El Gaish,Central Midfield,33,Egypt,8,7,0,309
+1421391,25,Ahmed Tarek,Tala'ea El Gaish,Attacking Midfield,24,Egypt,6,6,1,306
+1153965,20,Mahmoud Abdelaziz,Tala'ea El Gaish,Attacking Midfield,24,Egypt,0,0,0,0
+926341,17,Walid Benbella,Tala'ea El Gaish,Defensive Midfield,25,France,3,2,0,104
+1475564,31,Mohamed Yasser,Tala'ea El Gaish,Central Midfield,19,Egypt,0,0,0,0
+1228890,30,Mohamed Atef,Tala'ea El Gaish,Right Winger,24,Egypt,8,8,1,618
+730029,28,Ismaïl Ouro-Agoro,Tala'ea El Gaish,Centre-Forward,30,Togo,8,7,0,261
+921603,9,Fares Hatem,Tala'ea El Gaish,Centre-Forward,23,Egypt,6,6,0,296
+1196238,10,Mohamed Hany,Tala'ea El Gaish,Right Winger,24,Egypt,8,3,0,16
+341346,11,Kareem Tarek,Tala'ea El Gaish,Left Winger,34,Egypt,8,8,1,635
+1269951,21,Khaled Aboziada,Tala'ea El Gaish,Right Winger,27,Egypt,8,4,0,200
+460567,7,Riga,Tala'ea El Gaish,Centre-Forward,32,Egypt,2,1,0,9
+1306502,13,Komi Arnaud Komlavi,Tala'ea El Gaish,Left Winger,25,Togo,8,7,0,159
+1549615,-,Ali El Garhi,Tala'ea El Gaish,Centre-Forward,19,Egypt,0,0,0,0
+1262953,33,Ayman Amir Abdelaziz,Tala'ea El Gaish,Left Winger,20,Egypt,1,1,0,45
